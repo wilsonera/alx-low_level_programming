@@ -2,7 +2,7 @@
 /**
  *main - Beginning
  *Description 'Print'
- Return: 0
+ *Return: 0
 */
 int main(void)
 {
@@ -14,5 +14,5 @@ putchar(n);
 n++;
 }
 putchar('\n');
-return(0);
+return (0);
 }
