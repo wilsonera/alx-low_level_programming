@@ -1,8 +1,6 @@
 #include "main.h"
 /**
-*main - healthy
-*print_alphabet_x10 - 'prints alphabets'
-*Return: always 0
+* print_alphabet_x10 - 'Prints alphabets'
 */
 void print_alphabet_x10(void)
 {
