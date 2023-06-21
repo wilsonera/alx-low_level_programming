@@ -1,8 +1,7 @@
 #include "main.h"
 /**
 *main - start
-*Description 'one'
-*Return: always 0
+* print_alphabet - print small letters
 */
 
 void print_alphabet(void)
