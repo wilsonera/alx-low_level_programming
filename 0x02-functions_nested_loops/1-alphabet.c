@@ -4,8 +4,9 @@
 *Description 'one'
 *Return: always 0
 */
-{
+
 void print_alphabet(void)
+*Description 'one'
 {
 int i;
 
