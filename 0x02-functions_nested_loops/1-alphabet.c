@@ -1,6 +1,5 @@
 #include "main.h"
 /**
-*main - start
 * print_alphabet - print small letters
 */
 
