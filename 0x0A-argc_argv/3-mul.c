@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.>
+#include <string.h>
 #include "main.h"
 /**
  * main - multiplies two numbers
@@ -15,7 +15,7 @@ if (argc < 3 || argc > 3)
 printf("Error\n");
 return (1);
 }
-result = atoi(argv[1]) * atoi(argv[2]);
+result = _atoi(argv[1]) * _atoi(argv[2]);
 printf("%d\n", result);
 return (0);
 }
